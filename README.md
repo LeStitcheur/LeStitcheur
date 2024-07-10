@@ -1,6 +1,6 @@
 <h1>Alexandre Harel</h1>
 
-<h2>LeStitcheurFou</h2>
+<h2>LeStitcheur</h2>
 
 <h3>Qui suis-je ?</h2>
 
