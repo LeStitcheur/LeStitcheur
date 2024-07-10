@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1>Alexandre Harel</h1>
 
-<!--
-**LeStitcheur/LeStitcheur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>LeStitcheurFou</h2>
 
-Here are some ideas to get you started:
+<h3>Qui suis-je ?</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Je m'appelle Alexandre Harel. Localiser en Bretagne, je fais du développement web depuis quelques années en loisir.
+Titulais d'un titre professionnel Développeur Web / WebMobile. Je suis autoentrepreneur depuis septembre 2022.</p>
+
+<h3> Me Contacter:</h3>
+
+<h4>Site Web<h4>
+<a href="https://www.mywebsoluce.fr"><img src="https://lestitcheurf0u.github.io/imgs/planet.svg"></a> 
+
+<h3>Mes Languages et outils:</h3>
+
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><span>Visual Studio Code</span>
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /><span>HTML 5</span>
+<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /><span>CSS 3</span>
+<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /><span>JavaScript</span>
+<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /><span>Git</span>
+
+
+<h3>Mes Stats Github</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeStitcheur&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  <h3>Ko-fi</h3>
+  
+<a href="https://ko-fi.com/J3J8IE12T"><img scr="https://ko-fi.com/img/githubbutton_sm.svg"></a> 
