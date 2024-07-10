@@ -4,8 +4,8 @@
 
 <h3>Qui suis-je ?</h2>
 
-<p>Je m'appelle Alexandre Harel. Localiser en Bretagne, je fais du développement web depuis quelques années en loisir.
-Titulais d'un titre professionnel Développeur Web / WebMobile. Je suis autoentrepreneur depuis septembre 2022.</p>
+<p>Je m'appelle Alexandre Harel. Localiser en Bretagne, je fais du développement web depuis quelques années en loisir. <br />
+Titulairs d'un titre professionnel Développeur Web / WebMobile. Je suis autoentrepreneur depuis septembre 2022.</p>
 
 <h3> Me Contacter:</h3>
 
